@@ -1,7 +1,7 @@
 name: andrewMrubacky
 favicon: null
-layout_spectrum: 0.5840899718459696
-typography_spectrum: 0.035249377600848675
+layout_spectrum: 0.1644
+typography_spectrum: 0.59936
 title: andrew.M.rubacky
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6785752302967012
-  lightness: 0.6918578180484474
-  saturation: 0.2197311574127525
-  rhythmicContrast: 0.8602736119646579
+  brandStrength: 0.0625
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
